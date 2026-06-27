@@ -1,6 +1,5 @@
 package com.academia.batch.service;
 
-import com.academia.batch.repository.EstudianteEntity;
 import com.academia.batch.repository.EstudianteRepository;
 import org.springframework.stereotype.Service;
 
