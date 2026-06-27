@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.academia</groupId>
+    <groupId>com.academia.batch.service</groupId>
     <artifactId>spring-batch-final-calificaciones</artifactId>
     <version>1.0.0</version>
     <name>spring-batch-final-calificaciones</name>
